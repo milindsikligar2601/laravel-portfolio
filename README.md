@@ -5,5 +5,5 @@ This is my personal portfolio website, built using Laravel and Tailwind CSS with
 ### Features
 - Dark theme responsive design
 - Dynamic projects section
-- Contact form (optional)
+- Contact form
 - Resume download
